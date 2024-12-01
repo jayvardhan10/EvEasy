@@ -1,2 +1,2 @@
-#EvEasy
+# EvEasy
 Event Management made simple
